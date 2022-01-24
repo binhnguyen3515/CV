@@ -1,0 +1,58 @@
+{
+    "Left":{
+        "Contact":"Contact Information",
+        "Email":"Email",
+        "Address":"Address",
+        "AddressInfo":"187c Hoang Hoa Tham Street, Ward 6, Binh Thanh District, HCM City",
+        "Phone":"Phone",
+        "PhoneInfo":"077 310 6578",
+        "DateOfBirth":"Date of birth",
+        "DateOfBirthInfo":"Jun 12, 1993",
+        "Nation":"Nationality",
+        "NationInfo":"Vietnam",
+        "Skills":"Skills",
+        "Language":"Language",
+        "LanguageInfo":"English",
+        "LanguageInfo2":"Intermediate"
+    },
+    "Right":{
+        "Name":"Binh Thai Nguyen",
+        "Objective1":"- I am a final semester student at FPT Polytechnic College. To take part in the final project, I need a certificate of graduation internship or working at an IT Company.",
+        "Objective2":"- I wish to apply to companies that use Angular Framework or Java Spring Boot to learn more about them",
+        "Objective3":"- I can work and study under high pressure",
+
+        "Project":"Projects",
+
+        "StartDate1":"Nov 2021",
+        "EndDate1":"Dec 2021",
+        "Project1_1":"- Building a simple shopping cart website",
+        "Project1_2":"- Director and Staff role can access to admin page",
+        "Project1_3":"- Dashboard shows general information about selling products and so on, using pie charts and bar charts.",
+        "Project1_4":"- Techs use: Angular 12, Spring Boot, Bootstrap 5, SQL Server",
+        "Project1_5":"- There is also the same project like this one which use: Thymeleaf, Spring Boot, Bootstrap 5, SQL Server",
+
+        "StartDate2":"Aug 2021",
+        "EndDate2":"Oct 2021",
+        "Project2_1":"- A Shopping cart website using JSP and Java Spring Boot",
+        "Project2_2":"- Allowing users to check their order status",
+        "Project2_3":"- Staff can manage products. Admin can access all content",
+        "Project2_4":"- Multi charts are applied for the dashboard and summary section",
+        "Project2_5":"- Techs: Java Servlet Page, Spring Boot, Jquery, Bootstrap 5, SQL Server",
+
+        "Education":"Education",
+        "StartDate3":"Sep 2019",
+        "EndDate3":"Present",
+
+        "Education1":"FPT Polytechnic College - Software Application",
+        "Education2":"- Hardworking student at FPT Polytechnic College.",
+        "Education3":"- Excellent scores in main subjects.",
+
+        "Activity":"Activity",
+        "Activity1":"- Tutor for one of the java subjects at FPT Polytechnic College. The main part is to help other students in studying."
+    },
+    "Lang":{
+        "ChooseLang":"Choose a language",
+        "vi":"Vietnam",
+        "en":"English"
+    }
+}

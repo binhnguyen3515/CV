@@ -1,0 +1,58 @@
+{
+    "Left":{
+        "Contact":"Thông tin liên lạc",
+        "Email":"Email",
+        "Address":"Địa chỉ",
+        "AddressInfo":"187c Hoàng Hoa Thám, P.6, Q.Bình Thạnh, TP.Hồ Chí Minh",
+        "Phone":"Điện thoại",
+        "PhoneInfo":"077 310 6578",
+        "DateOfBirth":"Ngày sinh",
+        "DateOfBirthInfo":"12 - 06 - 1993",
+        "Nation":"Quốc tịch",
+        "NationInfo":"Việt Nam",
+        "Skills":"Kỹ năng",
+        "Language":"Ngoại ngữ",
+        "LanguageInfo":"Tiếng Anh",
+        "LanguageInfo2":"Trung cấp"
+    },
+    "Right":{
+        "Name":"Nguyễn Thái Bình",
+        "Objective1":"- Hiện tại, tôi đang là sinh viên kỳ cuối tại trường Cao Đẳng FPT Polytechnic. Để có thể tham gia dự án tốt nghiệp, tôi cần chứng chỉ sinh viên thực tập hoặc đang làm việc tại một công ty IT",
+        "Objective2":"- Tôi mong muốn được tham gia vào công ty có sử dụng nền tảng Angular hoặc Java Spring Boot để học hỏi thêm kinh nghiệm về các nền tảng nêu trên",
+        "Objective3":"- Tôi có thể làm việc và học tập với cường độ cao",
+
+        "Project":"Các dự án",
+
+        "StartDate1":"11/2021",
+        "EndDate1":"12/2021",
+        "Project1_1":"- Xây dựng website giỏ hàng đơn giản",
+        "Project1_2":"- Nhân viên và giám đốc có thể truy cập vào trang quản trị",
+        "Project1_3":"- Trang dashboard trình bày thông tin chung về hoạt động bán hàng, có sử dụng biểu đồ tròn và biểu đồ cột thống kê dữ liệu",
+        "Project1_4":"- Công nghệ: Angular 12, Spring Boot, Bootstrap 5, SQL Server",
+        "Project1_5":"- Có 1 project khác cũng được xây dựng tương tự về các tính năng nhưng áp dụng công nghệ khác: Thymeleaf, Spring Boot, Bootstrap 5, SQL Server",
+
+        "StartDate2":"08/2021",
+        "EndDate2":"10/2021",
+        "Project2_1":"- Là một trang web với chức năng giỏ hàng, sử dụng JSP và Java Spring Boot",
+        "Project2_2":"- Cho phép người dùng kiểm tra đơn hàng cá nhân",
+        "Project2_3":"- Nhân viên có thể quản lý sản phẩm. Admin có quyền truy cập vào mọi thành phần của trang web",
+        "Project2_4":"- Sử dụng nhiều loại biểu đồ khác nhau cho mục Dashboard và Summary",
+        "Project2_5":"- Công nghệ: Java Servlet Page, Spring Boot, Jquery, Bootstrap 5, SQL Server",
+
+        "Education":"Học vấn",
+        "StartDate3":"09/2019",
+        "EndDate3":"Hiện tại",
+
+        "Education1":"Cao đẳng FPT Polytechnic - Ứng dụng phần mềm",
+        "Education2":"- Là sinh viên học chẳm chỉ tại trường",
+        "Education3":"- Các môn chuyên ngành có điểm số xuất sắc",
+
+        "Activity":"Hoạt động",
+        "Activity1":"- Trợ giản một trong các môn Java tại trường Cao đẳng FPT Polytechnic. Mục tiêu chính là hỗ trợ các sinh viên khác trong việc học"
+    },
+    "Lang":{
+        "ChooseLang":"Chọn ngôn ngữ",
+        "vi":"Tiếng Việt",
+        "en":"Tiếng Anh"
+    }
+}
